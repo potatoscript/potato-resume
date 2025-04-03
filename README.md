@@ -1,10 +1,18 @@
 # **POTATOSCRIPT - Professional Resume**  
+| UpDate       | Version |
+|------------|------------------------------------------------|
+| 2025-04-03 | [日本語版](#japanese) |
+| 2025-04-03 | [English](#english) |
 
 ---
 
-## **日本語版 (Japanese Version)**  
+###### japanese
 
-### **基本情報 (Personal Information)**  
+<details>
+<summary><strong>日本語版 (Japanese Version)</strong></summary>
+  
+### **基本情報 (Personal Information)**
+  
 - **氏名 (Name)**: POTATOSCRIPT  (別途に連絡)
 - **生年月日 (Date of Birth)**: 別途に連絡  
 - **国籍 (Nationality)**: 別途に連絡  
@@ -102,9 +110,14 @@
 - **希望年収 (Desired Salary)**: 700万円以上（残業代を除く）  
 - **個人的な目標 (Personal Goal)**: 日本語N1を取得し、さらにビジネス日本語のスキルを向上させ、より高いレベルの技術力を発揮することを目指しています。  
 
+</details>
+
 ---
 
-## **English Version (English Resume)**  
+###### english
+
+<details>
+<summary><strong>English Resume</strong></summary>
 
 ### **Personal Information**  
 - **Name**: POTATOSCRIPT (To be provided)
@@ -199,3 +212,7 @@
 ### **Other**  
 - **Desired Salary**: 7,000,000 yen (excluding overtime)  
 - **Personal Goal**: To obtain JLPT N1 and improve business Japanese proficiency, while showcasing higher-level technical skills.  
+
+</details>
+
+---
