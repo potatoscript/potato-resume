@@ -1,4 +1,7 @@
-# **POTATOSCRIPT - Professional Resume**  
+###### POTATOSCRIPT 
+
+# **Professional Resume 履歴書・職務経歴書**  
+
 | UpDate       | Version |
 |------------|------------------------------------------------|
 | 2025-04-03 | [日本語版](#japanese) |
@@ -114,6 +117,8 @@
 
 ---
 
+[back](#potatoscript)
+
 ###### english
 
 <details>
@@ -216,3 +221,5 @@
 </details>
 
 ---
+
+[back](#potatoscript)
