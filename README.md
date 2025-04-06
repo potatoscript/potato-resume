@@ -110,7 +110,7 @@
 ---
 
 ### **その他 (Other)**  
-- **希望年収 (Desired Salary)**: 700万円以上（残業代を除く）  
+- **希望年収 (Desired Salary)**: (別途に連絡)00万円以上（残業代を除く）  
 - **個人的な目標 (Personal Goal)**: 日本語N1を取得し、さらにビジネス日本語のスキルを向上させ、より高いレベルの技術力を発揮することを目指しています。  
 
 </details>
@@ -153,23 +153,53 @@
 
 ### **Professional Experience**  
 
-#### **Japanese Staffing Company – Current**  
-- **Position**: System Engineer  
-- **Period**: January 2023 – Present  
-- **Responsibilities**:  
-  - **Wafer Data Integration Management System Development**  
-    - Developed a system for wafer data management and analysis using Python, pandas, and JupyterLab.  
-    - Integrated multiple data sources for real-time data analysis and visualization, improving decision-making speed.  
-  - **Data Flow Management System Design**  
-    - Designed a web application for managing data flow using Django.  
-    - Optimized backend data management and frontend display functionality, improving system usability.  
-  - **CAD System Design and Development**  
-    - Designed and developed a customizable CAD system for the construction industry using C and C# WPF.  
-    - Implemented UI adjustments and automation of data entry to meet specific client needs.  
-  - **Project Management**  
-    - Managed and controlled project workflows using CICD tools (GitHub Actions, Jenkins).  
-    - Built pipelines for automatic builds and tests, increasing development team productivity and speeding up delivery.  
-    - Closely coordinated with team members to track progress and drive projects forward efficiently.  
+#### **Japanese IT Staffing Company — Senior System Engineer**  
+**Period**: January 2023 – Present  
+
+As a senior-level engineer with over 15 years of hands-on experience in software architecture, system development, and full-stack engineering, I have taken ownership of multiple high-impact projects across industries including semiconductors, construction, and enterprise systems. My role integrates deep technical execution with cross-functional leadership, ensuring delivery of robust, scalable, and high-performance systems.
+
+---
+
+##### ✅ **Wafer Data Integration & Analytics Platform (Semiconductor Industry)**  
+- **Technologies**: Python, pandas, NumPy, JupyterLab, SQLite, Plotly, Git  
+- Developed a sophisticated **data integration and analytics platform** to streamline wafer measurement data collection and analysis across various measurement devices.  
+- Engineered a modular pipeline using **pandas** for time-series and structured data normalization, enabling fast and consistent preprocessing of large datasets.  
+- Designed **interactive Jupyter dashboards** for real-time data visualization, empowering engineers to detect anomalies and trends within seconds.  
+- Improved engineering team analysis efficiency by over **40%** through automation and real-time reporting.
+
+---
+
+##### ✅ **Enterprise Data Flow Management Web System**  
+- **Technologies**: Django, PostgreSQL, JavaScript (Vanilla/Chart.js), Docker, Nginx, Gunicorn  
+- Architected and developed a **full-stack web-based system** for centralized management of internal data flow and processing rules.  
+- Designed robust data models and implemented RESTful APIs to standardize data input, transformation, and output pipelines.  
+- Integrated advanced visualization tools and search functions, enabling users to interact with and trace data lineage across systems.  
+- Deployed production-ready services using **Docker**, with **CI/CD pipelines** ensuring zero-downtime deployment.
+
+---
+
+##### ✅ **Construction Industry CAD Automation Tool**  
+- **Technologies**: C, C#, WPF, MVVM, SQLite, GDI+, XAML  
+- Designed and engineered a **custom CAD automation tool** tailored to construction design standards, focusing on line drawing, dimension control, and parametric adjustment.  
+- Implemented interactive canvas with drag-and-drop tools, real-time dimension editing, and dynamic snapping functions using **WPF + MVVM** architecture.  
+- Automated repetitive drawing tasks and improved user interaction, achieving up to **70% time savings** for architectural layout preparation.  
+- Delivered highly maintainable and scalable UI architecture, integrated with local storage using **SQLite** for offline use.
+
+---
+
+##### ✅ **DevOps Automation & Project Delivery Excellence**  
+- **Tools**: GitHub Actions, Jenkins, Bash, Pytest, SonarQube, Git  
+- Established enterprise-grade **CI/CD pipelines** for both web and desktop applications, ensuring continuous testing, building, and deployment.  
+- Wrote custom automation scripts for build validation, unit testing, linting, and security scanning using **Pytest** and **SonarQube** integration.  
+- Reduced release cycle duration by **60%** and increased deployment confidence by implementing automated regression checks.  
+- Acted as technical lead in agile sprint planning, release management, and inter-team code review processes to uphold software quality standards.
+
+---
+
+#### 💡 **Leadership & Communication**
+- Served as a **bridge between client-side stakeholders and internal teams**, translating business requirements into technical deliverables.  
+- Led sprint reviews, architectural discussions, and technical mentoring sessions to continuously elevate code quality and team capability.  
+- Received repeated praise for proactive problem-solving, system stability, and delivering **production-ready software under tight deadlines**.
 
 ---
 
@@ -215,7 +245,7 @@
 ---
 
 ### **Other**  
-- **Desired Salary**: 7,000,000 yen (excluding overtime)  
+- **Desired Salary**: (To be provided),000,000 yen (excluding overtime)  
 - **Personal Goal**: To obtain JLPT N1 and improve business Japanese proficiency, while showcasing higher-level technical skills.  
 
 </details>
