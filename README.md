@@ -10,6 +10,9 @@
 
 ---
 
+<details>
+<summary><strong>簡易版 / Light version</strong></summary>
+  
 ###### japanese
 
 <details>
@@ -254,3 +257,5 @@ As a senior-level engineer with over 15 years of hands-on experience in software
 ---
 
 [back](#potatoscript)
+
+</details>
