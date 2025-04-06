@@ -4,8 +4,9 @@
 
 | UpDate       | Version |
 |------------|------------------------------------------------|
-| 2025-04-03 | <a href="https://potatoscript.github.io/resume-english/" target="_blank">日本語版</a> |
-| 2025-04-03 | <a href="https://potatoscript.github.io/resume-english/" target="_blank">English</a> |
+| 2025-04-05 | [日本語版](https://potatoscript.github.io/resume-japanese/) |
+| 2025-04-05 | [ENGLISH](https://potatoscript.github.io/resume-english/) |
+
 
 ---
 
